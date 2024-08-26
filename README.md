@@ -15,7 +15,7 @@ This repository contains an analysis of key medical parameters from patient reco
 2. Cholesterol Levels by Race: Higher cholesterol observed in Black and White patients.
 3. Correlation of Blood Pressure Metrics: Positive correlation between systolic and diastolic pressures.
 4. Systolic Pressure vs Cholesterol: A relationship showing higher cholesterol linked to increased systolic pressure.
-   ![Graph](C:\Users\jusep\OneDrive\Desktop\Medical Information Dashboard.jpg)
+   ![image](https://github.com/Jusepi-Y/Big-Data-Data-Engineering/blob/main/Medical%20Information%20Dashboard.jpg)
 
 
 
