@@ -1,0 +1,11 @@
+patient_id,age,gender,race,height_cm,weight_kg,bmi,blood_pressure_systolic,blood_pressure_diastolic,cholesterol_total,cholesterol_hdl,cholesterol_ldl,smoker,diabetes,heart_disease,medications,procedures 
+1,45,M,White,180,90,27.8,130,85,200,50,130,1,0,0,lisinopril;metformin,appendectomy
+2,62,F,Black,165,72,26.4,145,92,240,40,170,0,1,1,simvastatin;insulin;metoprolol,coronary artery bypass graft
+3,38,F,Hispanic,155,54,22.5,118,78,160,60,85,0,0,0,,
+4,55,M,Asian,172,83,28.1,136,88,190,45,120,1,1,0,atorvastatin;glipizide,
+5,71,M,White,178,95,30,150,95,220,35,160,1,0,1,aspirin;atenolol;atorvastatin,percutaneous coronary intervention
+6,28,F,White,163,58,21.8,112,72,150,65,70,0,0,0,,
+7,50,M,Black,185,102,29.8,128,85,180,40,110,0,1,0,metformin;lisinopril,
+8,64,F,White,160,65,25.4,140,90,260,50,180,0,0,1,rosuvastatin;amlodipine,coronary angioplasty
+9,42,M,Hispanic,175,80,26.1,125,80,210,55,140,0,0,0,,
+10,59,F,Asian,158,60,24,135,85,200,60,120,0,1,0,glimepiride;lisinopril,
